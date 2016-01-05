@@ -15,7 +15,7 @@ Let us consider the initial conditions
 <img src="stuffy_stuff/f2.png" width="450">
 </p>
 
-This implies H = -1/2. The period of the solution is 2<img src="stuffy_stuff/f3.png" width="10">. The figure below shows the numerical solution for *tEnd* = 20<img src="stuffy_stuff/f3.png" width="10">, obtained after about 125 000 Euler forward steps at *dt* =0.0005. Obviously the solution is satisfying.
+This implies H = -1/2. The period of the solution is 2<img src="stuffy_stuff/f3.png" width="10">. The figure below shows the numerical solution for *tEnd* = 20<img src="stuffy_stuff/f3.png" width="10">, obtained after about 125 000 Euler forward steps at *dt* =0.0005. Obviously the solution is not satisfying.
 
 <p align="center">
 <img src="stuffy_stuff/euler.png" width="450">
