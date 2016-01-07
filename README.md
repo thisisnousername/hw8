@@ -8,7 +8,7 @@ The Hamiltonian of the motion is
 <img src="stuffy_stuff/f1.png" width="320">
 </p>
 
-From the analytic solution to the problem, we know that the motion takes place along an ellipse if *H*<0. Let *e* be the eccentricity of the ellipse.
+From the analytic solution to the problem, we know that the motion takes place along an ellipse if *H*<0. Let *e = 0.6* be the eccentricity of the ellipse.
 
 Let us consider the initial conditions
 <p align="center">
